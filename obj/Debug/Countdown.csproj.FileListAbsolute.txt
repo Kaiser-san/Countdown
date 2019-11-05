@@ -1,0 +1,12 @@
+C:\Users\Kaiser\Desktop\Faks\2. godina\IS\Countdown\Countdown\bin\Debug\Countdown.exe.config
+C:\Users\Kaiser\Desktop\Faks\2. godina\IS\Countdown\Countdown\bin\Debug\Countdown.exe
+C:\Users\Kaiser\Desktop\Faks\2. godina\IS\Countdown\Countdown\bin\Debug\Countdown.pdb
+C:\Users\Kaiser\Desktop\Faks\2. godina\IS\Countdown\Countdown\obj\Debug\Countdown.csprojResolveAssemblyReference.cache
+C:\Users\Kaiser\Desktop\Faks\2. godina\IS\Countdown\Countdown\obj\Debug\Countdown.exe
+C:\Users\Kaiser\Desktop\Faks\2. godina\IS\Countdown\Countdown\obj\Debug\Countdown.pdb
+C:\Users\Kaiser\Desktop\Countdown\Countdown\bin\Debug\Countdown.exe.config
+C:\Users\Kaiser\Desktop\Countdown\Countdown\obj\Debug\Countdown.exe
+C:\Users\Kaiser\Desktop\Countdown\Countdown\obj\Debug\Countdown.pdb
+C:\Users\Kaiser\Desktop\Countdown\Countdown\bin\Debug\Countdown.exe
+C:\Users\Kaiser\Desktop\Countdown\Countdown\bin\Debug\Countdown.pdb
+C:\Users\Kaiser\Desktop\Countdown\Countdown\obj\Debug\Countdown.csprojResolveAssemblyReference.cache
